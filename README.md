@@ -1,2 +1,2 @@
 # simplesns
-Playing with Python and Flesk
+Playing with Python and Flask
